@@ -30,7 +30,7 @@ Salida esperada:
 2 3 5 7 11 13 17 19"""
 
 def is_prime(num):
-	if type(num)==int and num>=1:
+	if type(num)==int and num> 1:
 		if num == 2 or num%2!=0: 
 			lista_divisores=[]
 			for i in range(1,num+1):

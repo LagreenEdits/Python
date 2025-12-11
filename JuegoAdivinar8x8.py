@@ -1,4 +1,4 @@
-from colorama import Fore, Style
+from colorama import Fore, Style 
 import time
 
 #print("    ######################################################################## HAY ERROR EN LA FILA ",fil)
